@@ -1,0 +1,11 @@
+/Users/bcircle/src/SearchCs/bin/Debug/netcoreapp2.1/SearchCs.deps.json
+/Users/bcircle/src/SearchCs/bin/Debug/netcoreapp2.1/SearchCs.runtimeconfig.json
+/Users/bcircle/src/SearchCs/bin/Debug/netcoreapp2.1/SearchCs.runtimeconfig.dev.json
+/Users/bcircle/src/SearchCs/bin/Debug/netcoreapp2.1/SearchCs.dll
+/Users/bcircle/src/SearchCs/bin/Debug/netcoreapp2.1/SearchCs.pdb
+/Users/bcircle/src/SearchCs/obj/Debug/netcoreapp2.1/SearchCs.csprojAssemblyReference.cache
+/Users/bcircle/src/SearchCs/obj/Debug/netcoreapp2.1/SearchCs.csproj.CoreCompileInputs.cache
+/Users/bcircle/src/SearchCs/obj/Debug/netcoreapp2.1/SearchCs.AssemblyInfoInputs.cache
+/Users/bcircle/src/SearchCs/obj/Debug/netcoreapp2.1/SearchCs.AssemblyInfo.cs
+/Users/bcircle/src/SearchCs/obj/Debug/netcoreapp2.1/SearchCs.dll
+/Users/bcircle/src/SearchCs/obj/Debug/netcoreapp2.1/SearchCs.pdb
