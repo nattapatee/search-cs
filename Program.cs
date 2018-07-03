@@ -54,8 +54,8 @@ namespace SearchCs
         static async Task Main(string[] args)
         {
             var request = new Request {
-                path = "/Users/bcircle/src/SearchApi",
-                pattern = "*.json"
+                Path = "/Users/bcircle/src/SearchApi",
+                Pattern = "*.json"
             };
 
             var Result = await SendRequest(request);
@@ -67,9 +67,9 @@ namespace SearchCs
     class Request 
     {
         [DataMember]
-        public string pattern{set; get;}
+        public string Pattern{set; get;}
         [DataMember]
-        public string path{set; get;} 
+        public string Path{set; get;} 
     }
 }
     
